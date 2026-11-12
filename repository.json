@@ -9,9 +9,9 @@
     },
     "packages": {
         "url": "https://raw.githubusercontent.com/inoson/kicad-packages/main/packages.json",
-        "sha256": "b6de3a44a67e13c34832e467d7ec23011a0b923838f8cbe039e572e32f185383",
-        "update_timestamp": 1794495112,
-        "update_time_utc": "2026-11-12 14:51:52"
+        "sha256": "f263351090f2c32cd1ca056cc92d61e2928ef274270c7d2c1d17cc2d223b490c",
+        "update_timestamp": 1794497942,
+        "update_time_utc": "2026-11-12 15:39:02"
     },
     "resources": {
         "url": "https://raw.githubusercontent.com/inoson/kicad-packages/main/resources.zip",
