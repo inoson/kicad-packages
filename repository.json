@@ -1,0 +1,22 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1#/definitions/Repository",
+    "name": "inoson KiCad plugins",
+    "maintainer": {
+        "name": "inoson",
+        "contact": {
+            "github": "https://github.com/inoson/kicad-packages"
+        }
+    },
+    "packages": {
+        "url": "https://raw.githubusercontent.com/inoson/kicad-packages/main/packages.json",
+        "sha256": "b6de3a44a67e13c34832e467d7ec23011a0b923838f8cbe039e572e32f185383",
+        "update_timestamp": 1794495112,
+        "update_time_utc": "2026-11-12 14:51:52"
+    },
+    "resources": {
+        "url": "https://raw.githubusercontent.com/inoson/kicad-packages/main/resources.zip",
+        "sha256": "febd92f822497a67b97a84e9575ffe461186659c4ceb51a7ec7b0fbb1cd036b0",
+        "update_timestamp": 1794495112,
+        "update_time_utc": "2026-11-12 14:51:52"
+    }
+}
