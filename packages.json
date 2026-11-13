@@ -45,6 +45,21 @@
                         "macos",
                         "windows"
                     ],
+                    "version": "2026.11.2",
+                    "download_url": "https://github.com/inoson/InteractiveHtmlBom/releases/download/inoson-2026.11.2/InteractiveHtmlBom_inoson-2026.11.2.zip",
+                    "download_sha256": "2c8f319fc3d96f8d2a637835dca577975e8b71d56477b4b65826d0ea2194479c",
+                    "download_size": 155521,
+                    "install_size": 770837
+                },
+                {
+                    "status": "stable",
+                    "kicad_version": "6.0",
+                    "kicad_version_max": "10",
+                    "platforms": [
+                        "linux",
+                        "macos",
+                        "windows"
+                    ],
                     "version": "2026.11.1",
                     "download_url": "https://github.com/inoson/InteractiveHtmlBom/releases/download/inoson-2026.11.1/InteractiveHtmlBom_inoson-2026.11.1.zip",
                     "download_sha256": "93704e963865ce124a98b6a24db32ada72aeed6de99a2ca3f3ed401483810643",
